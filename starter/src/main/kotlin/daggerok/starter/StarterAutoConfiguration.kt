@@ -1,0 +1,6 @@
+package daggerok.starter
+
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration
+
+@EnableAutoConfiguration
+class StarterAutoConfiguration

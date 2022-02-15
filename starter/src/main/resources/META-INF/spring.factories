@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  daggerok.starter.autoconfigure.props.GreetingPropsAutoConfiguration,\
+  daggerok.starter.autoconfigure.props.NamePropsAutoConfiguration,\
+  daggerok.starter.autoconfigure.GreetingServicesAutoConfiguration
